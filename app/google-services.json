@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "846164464663",
+    "firebase_url": "https://cafemanagement-d3310-default-rtdb.firebaseio.com",
+    "project_id": "cafemanagement-d3310",
+    "storage_bucket": "cafemanagement-d3310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846164464663:android:edabd5d0c6fccdcafb7852",
+        "android_client_info": {
+          "package_name": "com.app.foodordermanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvN8Zq1jNGqEBbQkcTHu0K7nEFQMkzArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846164464663:android:e6c677c54037a63dfb7852",
+        "android_client_info": {
+          "package_name": "com.app.shopfee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvN8Zq1jNGqEBbQkcTHu0K7nEFQMkzArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
